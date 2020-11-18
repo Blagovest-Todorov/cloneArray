@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\Solution3\copyingArrays\bin\Debug\netcoreapp3.1\copyingArrays.exe
+C:\Users\Bla\source\repos\Solution3\copyingArrays\bin\Debug\netcoreapp3.1\copyingArrays.deps.json
+C:\Users\Bla\source\repos\Solution3\copyingArrays\bin\Debug\netcoreapp3.1\copyingArrays.runtimeconfig.json
+C:\Users\Bla\source\repos\Solution3\copyingArrays\bin\Debug\netcoreapp3.1\copyingArrays.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Solution3\copyingArrays\bin\Debug\netcoreapp3.1\copyingArrays.dll
+C:\Users\Bla\source\repos\Solution3\copyingArrays\bin\Debug\netcoreapp3.1\copyingArrays.pdb
+C:\Users\Bla\source\repos\Solution3\copyingArrays\obj\Debug\netcoreapp3.1\copyingArrays.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\Solution3\copyingArrays\obj\Debug\netcoreapp3.1\copyingArrays.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Solution3\copyingArrays\obj\Debug\netcoreapp3.1\copyingArrays.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Solution3\copyingArrays\obj\Debug\netcoreapp3.1\copyingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Solution3\copyingArrays\obj\Debug\netcoreapp3.1\copyingArrays.dll
+C:\Users\Bla\source\repos\Solution3\copyingArrays\obj\Debug\netcoreapp3.1\copyingArrays.pdb
+C:\Users\Bla\source\repos\Solution3\copyingArrays\obj\Debug\netcoreapp3.1\copyingArrays.genruntimeconfig.cache
